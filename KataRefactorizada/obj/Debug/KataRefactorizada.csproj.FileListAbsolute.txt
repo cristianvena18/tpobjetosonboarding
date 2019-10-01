@@ -1,0 +1,7 @@
+D:\OneDrive\programacion\C#\Nueva carpeta\KataRefactorizada\KataRefactorizada\obj\Debug\KataRefactorizada.csprojAssemblyReference.cache
+D:\OneDrive\programacion\C#\Nueva carpeta\KataRefactorizada\KataRefactorizada\obj\Debug\KataRefactorizada.csproj.CoreCompileInputs.cache
+D:\OneDrive\programacion\C#\Nueva carpeta\KataRefactorizada\KataRefactorizada\bin\Debug\KataRefactorizada.exe.config
+D:\OneDrive\programacion\C#\Nueva carpeta\KataRefactorizada\KataRefactorizada\bin\Debug\KataRefactorizada.exe
+D:\OneDrive\programacion\C#\Nueva carpeta\KataRefactorizada\KataRefactorizada\bin\Debug\KataRefactorizada.pdb
+D:\OneDrive\programacion\C#\Nueva carpeta\KataRefactorizada\KataRefactorizada\obj\Debug\KataRefactorizada.exe
+D:\OneDrive\programacion\C#\Nueva carpeta\KataRefactorizada\KataRefactorizada\obj\Debug\KataRefactorizada.pdb
